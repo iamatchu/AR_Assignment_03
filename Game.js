@@ -7,6 +7,7 @@ const GameState = Object.freeze({
     TOAST: Symbol("toast")
 });
 
+
 export default class Game{
     constructor(){
         this.stateCur = GameState.WELCOMING;
