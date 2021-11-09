@@ -1,4 +1,5 @@
 # <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+Author: Atchudhan Rengarajan
 
 README
 This README would normally document whatever steps are necessary to get your application up and running. These steps contains critical information about the application.
