@@ -5,11 +5,13 @@ README
 This README would normally document whatever steps are necessary to get your application up and running. These steps contains critical information about the application.
 
 How do I get set up?
+
 •	Install Microsoft SQL 2019, Visual Studio 2019
 •	Download all codes and jquery.html
 •	Run software and the application allows the user to enter the products that they are willing to purchase
 
 User Advice
+
 •	Enter the user name
 •	Enter the password
 •	Purchase the product
