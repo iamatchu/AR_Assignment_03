@@ -1,0 +1,26 @@
+Welcome
+
+Welcome to your wiki! This is the default page we've installed for your convenience. Go ahead and edit it.
+
+Wiki features
+This wiki uses the Markdown syntax. The MarkDownDemo tutorial shows how various elements are rendered. The Bitbucket documentation has more information about using a wiki.
+The wiki itself is actually a git repository, which means you can clone it, edit it locally/offline, add images or any other file type, and push it back to us. It will be live immediately.
+
+Go ahead and try:
+$ git clone https://Atchudhan6118@bitbucket.org/Atchudhan6118/ar_repo.git/wiki 
+Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
+
+Syntax highlighting
+You can also highlight snippets of text (we use the excellent Pygments library).
+Here's an example of some Python code:
+def wiki_rocks(text):
+formatter = lambda t: "funky"+t
+return formatter(text)
+You can check out the source of this page to see how that's done, and make sure to bookmark the vast library of Pygment lexers, we accept the 'short name' or the 'mimetype' of anything in there.
+
+Have fun!
+why a CAPSTONE customer might want you to use a private repository rather than a public one ?
+
+A private repository strongly ensures the application is closed-source and ensures that only specified people will be having the access to the application code and application security is guaranteed.
+Contrast the CAPSTONE customer's needs with the needs of Signal Private Messenger and describe why they would be open source ?
+signal private messenger would be open source because it allows the developer to share the code easily and ensure everyone contribute to it. It allows welcoming changing to the application.
